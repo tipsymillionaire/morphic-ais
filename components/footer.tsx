@@ -22,7 +22,7 @@ const Footer: React.FC = () => {
           className="text-muted-foreground/50"
         >
           <Link href="https://git.new/morphic" target="_blank">
-            <SiGithub size={18} />
+            <SiTelegram size={18} />
           </Link>
         </Button>
       </div>
