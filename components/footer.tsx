@@ -16,15 +16,6 @@ const Footer: React.FC = () => {
             <SiX size={18} />
           </Link>
         </Button>
-        <Button
-          variant={'ghost'}
-          size={'icon'}
-          className="text-muted-foreground/50"
-        >
-          <Link href="https://git.new/morphic" target="_blank">
-            <SiTelegram size={18} />
-          </Link>
-        </Button>
       </div>
     </footer>
   )
